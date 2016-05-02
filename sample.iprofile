@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<import>
+  <target folder="C:\Users\navya\Documents\My Website" type="CustomTableItems" updateifexists="False" skipifexists="False">
+    <location />
+  </target>
+  <source type="SQL" authtype="WindowsAuthentication" />
+</import>

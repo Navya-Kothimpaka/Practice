@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Welcome to Nui-Manu Airlines</title>
+	<link rel="stylesheet" href="main.css" />
+</head>
+
+<body>
+
+<div id="div1">
+
+	<header>
+		<img src="images/NuiManuLogo.jpg" alt="Nui Manu Logo Image"/>
+		<h1>Home</h1>
+	</header>
+	
+
+</div>
+
+<p id="p1"> Paragraph-1 </p>
+<p class="pClass"> Paragraph-2 </p>
+<p class="pClass"> Paragraph-3 </p>
+<p> Paragraph-4 </p>
+<p> Paragraph-5 </p>
+
+</body>
+</html>
